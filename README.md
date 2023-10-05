@@ -18,9 +18,9 @@
 
   <img width="130" heigth="130" src="https://user-images.githubusercontent.com/74038190/238200441-1a797f46-efe4-41e6-9e75-5303e1bbcbfa.gif" alt="animated gif" />
 
-  <img width="130" heigth="130" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" alt="animated gif" />
+  <img width="130" heigth="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="animated gif" />
 
-  <img width="130" heigth="130" src="https://artpictures.club/autumn-2023.html" alt="animated gif" />
+  <img width="180" heigth="130" src="https://miro.medium.com/v2/resize:fit:502/0*8Au6QYi7tfdafaBQ.gif" alt="animated gif" />
 
 
 
