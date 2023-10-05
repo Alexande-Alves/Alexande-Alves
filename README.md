@@ -11,15 +11,16 @@
 
 
 
-
+<h3>
 <div>
-⚡ Apaixonado por tecnologia⚡
-⚡ Estudante de Desenvolvimento Mobile - Unopar - EAD<br>⚡
-⚡ Bolsita na Cubos Academy- Desenvolvimento de Software<br>⚡
-⚡ Bolsista Sharp Coders - Fullstack⚡
-⚡ Carioca, morando em Rio de Janeiro⚡
+⚡ Apaixonado por tecnologia
+⚡ Estudante de Desenvolvimento Mobile - Unopar - EAD<br>
+⚡ Bolsita na Cubos Academy- Desenvolvimento de Software<br>
+⚡ Bolsista Sharp Coders - Fullstack
+⚡ Carioca, morando em Rio de Janeiro
 
 📫 Como falar comigo... <br>
+</h3>
  </div>
  
  <div align="center">
