@@ -35,6 +35,10 @@
 ⚡ Carioca, morando em Rio de Janeiro
 
 📫 Como falar comigo... <br>
+<div align="center">  
+  <img width="130" heigth="130" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fstickers%2Fcubos-academy-academy-cubosynSWgApCSRgR8pJedC&psig=AOvVaw2NEw4BCY8CCQOc-G8euDLJ&ust=1696617561395000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjNv4rH34EDFQAAAAAdAAAAABAE"alt="animatedgif"/>
+ </div>
+
 </h3>
  </div>
  
