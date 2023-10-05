@@ -7,7 +7,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Alexandre+Alves;I'm+42+years+old;I'm+from+Brazil;I+am+studying+Software+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alexande-alves&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
+
 
 
 
@@ -15,7 +16,7 @@
 ⚡ Apaixonado por tecnologia
 ⚡ Estudante de Desenvolvimento Mobile - Unopar - EAD<br>
 ⚡ Bolsita na Cubos Academy- Desenvolvimento de Software<br>
-⚡ Bolsista Sharp Coders - Fullstac
+⚡ Bolsista Sharp Coders - Fullstack
 ⚡ Carioca, morando em Rio de Janeiro
 
 📫 Como falar comigo... <br>
@@ -59,7 +60,6 @@
 </div>
 
 ###
-
 
 
 
