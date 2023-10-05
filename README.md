@@ -73,9 +73,6 @@
 
 
 
-<div align="center">  
-  <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="1400" heigth="25"  alt="animated gif" />
-</div>
 
 
 
