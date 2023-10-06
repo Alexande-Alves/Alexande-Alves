@@ -31,7 +31,7 @@
 <div>
 ⚡ Apaixonado por tecnologia
 ⚡ Estudante de Desenvolvimento Mobile - Unopar - EAD<br>
-⚡ Bolsita na Cubos Academy- Desenvolvimento de Software<br>
+⚡ Bolsista na Cubos Academy - Desenvolvimento de Software<br>
 ⚡ Carioca, morando em Rio de Janeiro
 
 📫 Como falar comigo... <br>
