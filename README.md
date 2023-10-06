@@ -5,22 +5,22 @@
 <div align="center">  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff23a4&height=80&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fde910&size=25&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Alexandre+Alves;I'm+42+years+old;I'm+from+Brazil;I+am+studying+Software+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fde910&size=47&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Alexandre+Alves;I'm+42+years+old;I'm+from+Brazil;I+am+studying+Software+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ![](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
 
 <div align="center">  
   <img width="115" heigth="115" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="animated gif" />
 
-  <img width="130" heigth="130" src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" alt="animated gif" />
+  <img width="115" heigth="115" src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" alt="animated gif" />
 
-  <img width="130" heigth="130" src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" alt="animated gif" />
+  <img width="115" heigth="115" src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" alt="animated gif" />
 
-  <img width="130" heigth="130" src="https://user-images.githubusercontent.com/74038190/238200441-1a797f46-efe4-41e6-9e75-5303e1bbcbfa.gif" alt="animated gif" />
+  <img width="115" heigth="115" src="https://user-images.githubusercontent.com/74038190/238200441-1a797f46-efe4-41e6-9e75-5303e1bbcbfa.gif" alt="animated gif" />
 
   <img width="150" heigth="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="animated gif" />
 
-  <img width="130" heigth="130" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" alt="animated gif" />
+  <img width="115" heigth="115" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" alt="animated gif" />
 
 
 
