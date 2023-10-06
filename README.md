@@ -8,7 +8,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF7F00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Alexandre+Alves;I'm+42+years+old;I'm+from+Brazil;I+am+studying+Software+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ![](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
-
+</div>
 <div align="center">  
   <img width="115" heigth="115" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="animated gif" />
 
@@ -22,23 +22,23 @@
 
   <img width="115" heigth="115" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" alt="animated gif" />
 
-
-
-  
 </div>
 
-<h3>
-<div>
+ <div align="center">
 ⚡ Apaixonado por tecnologia
 ⚡ Estudante de Desenvolvimento Mobile - Unopar - EAD<br>
 ⚡ Bolsista na Cubos Academy - Desenvolvimento de Software<br>
 ⚡ Carioca, morando em Rio de Janeiro
 
 📫 Como falar comigo... <br>
-<img width="150" heigth="150" src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif"  alt="animated gif" />
-
-
 </div>
+
+<div align="center">  
+  
+<a href="https://wa.me/5521992863571" target="_blank"><img width="90" heigth="115" src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" alt="animated gif" /></a> 
+</div>
+
+
 
 </h3>
  </div>
