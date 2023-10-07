@@ -21,7 +21,7 @@
   <img width="150" heigth="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="animated gif" />
 
   <img width="115" heigth="115" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" alt="animated gif" />
-
+<br>
 </div>
 
  <div align="center">
