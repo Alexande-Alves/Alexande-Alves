@@ -23,7 +23,7 @@
   <img width="115" heigth="115" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" alt="animated gif" />
 <br>
 </div>
-
+<br>
  <div align="center">
 ⚡ Apaixonado por tecnologia
 ⚡ Estudante de Desenvolvimento Mobile - Unopar - EAD<br>
