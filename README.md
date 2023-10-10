@@ -1,10 +1,5 @@
 
 
-<div>
-    <img height="1px"  src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="animated gif" />
-
-  
-</div>
 
 <div align="center">  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff23a4&height=80&section=header"/>
@@ -75,7 +70,7 @@
 </div>
 
 <div>
-    <img height="9px"  src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="animated gif" />
+    <img height="4px"  src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="animated gif" />
 
   
 </div>
