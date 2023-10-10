@@ -47,7 +47,7 @@
 <a href="https://www.linkedin.com/in/alexandre-alves-de-souza-688b61248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="mailto:alvestaq@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
-<br>
+
    <br>
 <div style="display: inline_block" align="center"><br>
 
@@ -71,7 +71,7 @@
 <br>
 
 <div>
-    <img height="4px"  src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="animated gif" />
+    <img   src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="animated gif" />
 
   
 </div>
