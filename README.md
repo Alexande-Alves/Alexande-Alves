@@ -24,7 +24,7 @@
 </div>
 <br>
  <div align="center">
-⚡ Apaixonado por tecnologia
+⚡ Desenvolvedor back-end
 ⚡ Estudante de Desenvolvimento Mobile - Unopar - EAD<br>
 ⚡ Bolsista na Cubos Academy - Desenvolvimento de Software<br>
 ⚡ Carioca, morando em Rio de Janeiro
