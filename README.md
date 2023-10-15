@@ -88,7 +88,7 @@
 
 
 <p width="100%" align="center">
-  <a href="https://github.com/Alexande-Alves/Projeto-site" title="Algorithms"><img  height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=gotham"></a><a href="https://github.com/Alexande-Alves/Projeto-site" title="Data Structures"><img  height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=gotham"></a>
+  <a href="https://github.com/Alexande-Alves/Projeto-site" title="Projeto-Site-Chess"><img  height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=gotham"></a><a href="https://github.com/Alexande-Alves/Projeto-site" title="Data Structures"><img  height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=gotham"></a>
 </p>
 
 
