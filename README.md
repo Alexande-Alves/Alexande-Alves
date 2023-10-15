@@ -2,6 +2,8 @@
 
 
 <div align="center">  
+
+  <img  width="700" heigth="500" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTFxcGcwYjQxN251cTJpcGlwb2FsaDV0dHRoNjE4MHNrM3Zyb2R2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/POaXPcQpqpBIRdFJSo/giphy.gif" />
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff23a4&height=80&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF7F00&size=47&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Alexandre+Alves;I'm+42+years+old;I'm+from+Brazil;I+am+studying+Software+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
@@ -100,6 +102,8 @@
 <img color="ffffff" src="https://profile-counter.glitch.me/alexande-alves/count.svg" alt="Hello world" />
 <br>
  visitor count 
+
+
 
 
 
