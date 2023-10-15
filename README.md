@@ -91,8 +91,13 @@
 <br>
   <img width="710" heigth="2000" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="animated gif" />
 
+<br>
 
-###
+<br>
+<img src="https://profile-counter.glitch.me/alexande-alves/count.svg" alt="Hello world" />
+<br>
+ visitor count 
+
 
 
 
