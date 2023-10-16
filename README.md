@@ -81,20 +81,22 @@
 <br>
 
 
-<br>
 
-  <div align="center">  
-
-  <img  width="700" heigth="200" src="https://media4.giphy.com/media/dtYYKB0m5czwMDxz3W/giphy.gif" />
-</div>
 
 <div>
     <img   src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="animated gif" />
 
   
 </div>
+<br>
+  <div align="center">  
+
+  <img  width="700" heigth="200" src="https://media4.giphy.com/media/dtYYKB0m5czwMDxz3W/giphy.gif" />
+</div>
 
 
+
+  <br>
 
   <div align="center">  
 
@@ -102,19 +104,18 @@
   </div>
 <div align="center">
   <br>
-  <br>
+
   <img src="https://github-readme-stats.vercel.app/api?username=alexande-alves&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexande-alves&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 <br>
-
+  <br>
 
   <img  width="350" heigth="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHF6bDhoaXRqMDk0dHpsd3VteWdpYWxxbjQ1Z2U1czFnejF5MGs4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FtsNzbQg01b0ET8cGe/giphy.gif" />
 
   <img  width="350" heigth="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJ1Znkyd2Nna24wMGlxanBsOW8wOHA4djNhMGZqa3dudWp4Ynd5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fKYxUKuF8OEW3qKKMv/source.gif" />
 
 
-  <br>
 
 
 
