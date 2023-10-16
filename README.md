@@ -10,12 +10,7 @@
 ![](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
 </div>
 
-<br>
 
-  <div align="center">  
-
-  <img  width="700" heigth="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajBzeGs2bzdueDc2NWd3YjQ3aTk0dGdyaXN4cHdicDZyOWRheDl4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/w3gSPIZtu741272NGy/source.gif" />
-</div>
 <br>
 
 <div align="center">  
@@ -60,6 +55,9 @@
 <a href="mailto:alvestaq@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
 
+
+
+
    <br>
 <div style="display: inline_block" align="center"><br>
 
@@ -82,6 +80,13 @@
 </div>
 <br>
 
+
+<br>
+
+  <div align="center">  
+
+  <img  width="700" heigth="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjE3N2F1djZtMzluaTV2bzdtb2QxNGN5NzYxYm9xbXY2Nm55MTBhbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4RXWd5OsiYF5PuaOpX/giphy.gif" />
+</div>
 
 <div>
     <img   src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="animated gif" />
