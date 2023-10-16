@@ -71,6 +71,7 @@
 </div>
 <br>
 
+
 <div>
     <img   src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="animated gif" />
 
@@ -79,9 +80,13 @@
 
 
 
-###
+  <div align="center">  
 
+  <img   width="700" heigth="500" src="https://media0.giphy.com/media/pkazX9sFfzQAArg8Tb/giphy.gif" />
+  </div>
 <div align="center">
+  <br>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=alexande-alves&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexande-alves&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
@@ -95,10 +100,7 @@
   <img  width="350" heigth="200" src="https://media3.giphy.com/media/p0ygd5p63Ke69887mX/200w.webp" />
 
   <br>
-  <div align="center">  
 
-  <img   width="700" heigth="500" src="https://media0.giphy.com/media/pkazX9sFfzQAArg8Tb/giphy.gif" />
-  </div>
 
 
 <br>
