@@ -24,6 +24,11 @@
 <br>
 </div>
 <br>
+
+  <div align="center">  
+
+  <img  width="700" heigth="200" src="https://media3.giphy.com/media/p0ygd5p63Ke69887mX/200w.webp" />
+</div>
  <div align="center">
 ⚡ Desenvolvedor back-end
 ⚡ Estudante de Desenvolvimento Mobile - Unopar - EAD<br>
@@ -96,8 +101,7 @@
   <img  width="350" heigth="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHF6bDhoaXRqMDk0dHpsd3VteWdpYWxxbjQ1Z2U1czFnejF5MGs4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FtsNzbQg01b0ET8cGe/giphy.gif" />
 
   <img  width="350" heigth="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJ1Znkyd2Nna24wMGlxanBsOW8wOHA4djNhMGZqa3dudWp4Ynd5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fKYxUKuF8OEW3qKKMv/source.gif" />
-  
-  <img  width="350" heigth="200" src="https://media3.giphy.com/media/p0ygd5p63Ke69887mX/200w.webp" />
+
 
   <br>
 
