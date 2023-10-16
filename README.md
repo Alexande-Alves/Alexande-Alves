@@ -87,8 +87,9 @@
 <br>
 
 
-  <img  width="580" heigth="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTFxcGcwYjQxN251cTJpcGlwb2FsaDV0dHRoNjE4MHNrM3Zyb2R2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/POaXPcQpqpBIRdFJSo/giphy.gif" />
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff23a4&height=80&section=header"/>
+  <img  width="380" heigth="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHF6bDhoaXRqMDk0dHpsd3VteWdpYWxxbjQ1Z2U1czFnejF5MGs4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FtsNzbQg01b0ET8cGe/giphy.gif" />
+
+  <img  width="380" heigth="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJ1Znkyd2Nna24wMGlxanBsOW8wOHA4djNhMGZqa3dudWp4Ynd5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fKYxUKuF8OEW3qKKMv/source.gif" />
 
 
 
@@ -105,6 +106,7 @@
 <br>
  visitor count 
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff23a4&height=80&section=header"/>
 
 
 
