@@ -132,11 +132,12 @@
 <br>
   <img width="710" heigth="2000" src="https://media0.giphy.com/media/pkazX9sFfzQAArg8Tb/giphy.gif" alt="animated gif" />
 
-
+<div align="center">
 <img color="ffffff" src="https://profile-counter.glitch.me/alexande-alves/count.svg" alt="Hello world" />
-<br>
+</div>
  visitor count 
-
+ <br>
+  <br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff23a4&height=80&section=header"/>
 
 <br>
